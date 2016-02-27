@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+What it is, what it do? 
